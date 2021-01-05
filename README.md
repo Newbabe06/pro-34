@@ -1,2 +1,1 @@
-# pro-34
-creating pro 34
+# c34-project
